@@ -55,7 +55,7 @@ public class Feedback {
         String s4 = "The customer support was helpful and responsive.";
         String s5 = "I would recommend this e-Bike to my friends and family.";
         
-        Feedback fb = new Feedback("Alice", "Smith", "alice@example.com");
+        Feedback fb = new Feedback("hzjxxx", "hzjxxxx", "hzjxxxxx");
         fb.analyseFeedback(true, s1, s2, s3, s4, s5);
         System.out.println(fb);
     }
